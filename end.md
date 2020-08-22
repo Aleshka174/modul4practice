@@ -12,4 +12,6 @@
 
 3. *Библиотека программиста: Git за полчаса: руководство для начинающих - [тут.](https://proglib.io/p/git-for-half-an-hour/)*
 
+![picters](./picters/picters1.jpeg)
+
 --- 
